@@ -1,0 +1,2 @@
+# snooper
+A JavaScript project
